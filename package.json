@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "apiai": "^2.0.0",
-    "botkit": "0.0.12",
+    "botkit": "4.10.0",
     "html-entities": "^1.2.0",
     "node-uuid": "^1.4.7"
   }
