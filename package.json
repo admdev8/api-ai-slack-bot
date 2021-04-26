@@ -12,7 +12,7 @@
   "dependencies": {
     "apiai": "^2.0.0",
     "botkit": "0.0.12",
-    "html-entities": "^1.2.0",
+    "html-entities": "^2.3.2",
     "node-uuid": "^1.4.7"
   }
 }
